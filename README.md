@@ -12,3 +12,4 @@ This project is originally used to complete the assignment on **Deep Learning Al
 Group 10 of 4IA03:
 * Rully Setiawan
 * Muhammad Mahdi
+* Ryan Puji Ambari
